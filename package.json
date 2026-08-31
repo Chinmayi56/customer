@@ -1,0 +1,18 @@
+{
+  "name": "customer1",
+  "version": "1.0.0",
+  "description": "A frontend-only, premium e-commerce experience for Farm Craft agricultural machinery. No backend, no real payments, no real auth — everything runs on mock data + `localStorage`, structured so a real API can be dropped in later with minimal changes.",
+  "main": "index.js",
+  "scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "vite": "^8.2.2"
+  }
+}
